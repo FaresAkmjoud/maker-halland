@@ -1,0 +1,95 @@
+{
+    "uptimes": [
+        {
+            "url": "https://52fa7e16-3bc6-48da-9808-273ab756c481-00-1lws67f953crg.kirk.replit.dev:8081/",
+            "type": "monthly",
+            "guildId": "1049682475942690866",
+            "userId": "1205419138298945556",
+            "timeLeft": 2029500
+        },
+        {
+            "url": "https://cf0b70f5-5f42-4816-b777-98d157f0e930-00-32jw6f49dhlfs.riker.replit.dev/",
+            "type": "weekly",
+            "guildId": "1049682475942690866",
+            "userId": "1205419138298945556",
+            "timeLeft": 96300
+        },
+        {
+            "url": "https://replit.com/join/ftjbjbnbgy-alrawahiqwer",
+            "type": "monthly",
+            "guildId": "1193922521511243857",
+            "userId": "985793995470958632",
+            "timeLeft": 2083500
+        },
+        {
+            "url": "https://replit.com/join/vucpftlbdh-beenmr560",
+            "type": "weekly",
+            "guildId": "1049682475942690866",
+            "userId": "1205419138298945556",
+            "timeLeft": 97920
+        },
+        {
+            "url": "https://discord.com/oauth2/authorize?client_id=1250123010807959554",
+            "type": "monthly",
+            "guildId": "1238875604745457796",
+            "userId": "1238921990908153939",
+            "timeLeft": 2188620
+        },
+        {
+            "url": "https://discord.com/oauth2/authorize?client_id=1250125074183356507&permissions=8&integrati",
+            "type": "monthly",
+            "guildId": "1238875604745457796",
+            "userId": "1234044820830556252",
+            "timeLeft": 2191860
+        },
+        {
+            "url": "https://replit.com/@MohamdeTmx/Si-sylduulduum?s=app",
+            "type": "weekly",
+            "guildId": "1049682475942690866",
+            "userId": "1115772934531850333",
+            "timeLeft": 240300
+        },
+        {
+            "url": "https://replit.com/@MohamdeTmx/Hisko?s=app",
+            "type": "weekly",
+            "guildId": "1049682475942690866",
+            "userId": "1115772934531850333",
+            "timeLeft": 245520
+        },
+        {
+            "url": "https://cdn.discordapp.com/attachments/1248576556243222580/1250425252148809778/IMG_0130.pn",
+            "type": "monthly",
+            "guildId": "1237461274397511752",
+            "userId": "885541246083407873",
+            "timeLeft": 2285460
+        },
+        {
+            "url": "https://replit.com/join/wqyvorcvlj-mohamdetmx",
+            "type": "weekly",
+            "guildId": "1049682475942690866",
+            "userId": "1115772934531850333",
+            "timeLeft": 405180
+        },
+        {
+            "url": "https://husky-bevel-adasaurus.glitch.me/",
+            "type": "monthly",
+            "guildId": "1049682475942690866",
+            "userId": "1052174677998571620",
+            "timeLeft": 2441340
+        },
+        {
+            "url": "https://replit.com/join/wqyvorcvlj-mohamdetmx",
+            "type": "weekly",
+            "guildId": "1049682475942690866",
+            "userId": "1128354336834076832",
+            "timeLeft": 526320
+        },
+        {
+            "url": "https://2e6be4d1-3e54-411f-ba1d-4ea1218d31c0-00-mp3xcothb2g7.picard.replit.dev",
+            "type": "monthly",
+            "guildId": "1049682475942690866",
+            "userId": "1026138813422112829",
+            "timeLeft": 2528280
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "products_1179052189327560724": [],
+    "products_1238243999068979361": [],
+    "products_1237629578579546182": [
+        {
+            "name": "اداة نسخ سيرفرات",
+            "price": "500000",
+            "goods": []
+        }
+    ],
+    "recipient_1237629578579546182": "844158948785389579",
+    "probot_1237629578579546182": "282859044593598464",
+    "clientrole_1237629578579546182": "1247600700909948971",
+    "products_1248606469751046247": [
+        {
+            "name": "nitro",
+            "price": "30000",
+            "goods": [
+                "https://discord.com/billing/promotions/AetsrD9KZnGYrRDWxSza8NCn"
+            ]
+        }
+    ],
+    "recipient_1248606469751046247": "1067517462448439336",
+    "probot_1248606469751046247": "282859044593598464",
+    "clientrole_1248606469751046247": "1249084764678262794",
+    "products_691628674306408488": [
+        {
+            "name": "Nitro 1 Month",
+            "price": "10",
+            "goods": [
+                "https://promos.discord.gg/2VEzqX95GtKhgueTwxT7JDDw"
+            ]
+        },
+        {
+            "name": "Nitro 3Month",
+            "price": "250",
+            "goods": [
+                "https://promos.discord.gg/2WrctFJCwT4eP2c3Yvks9Y5e"
+            ]
+        }
+    ],
+    "probot_691628674306408488": "282859044593598464",
+    "clientrole_691628674306408488": "1249698349582516285",
+    "recipient_691628674306408488": "1005863198546726952"
+}
