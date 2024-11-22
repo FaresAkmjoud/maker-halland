@@ -1,0 +1,7 @@
+{ 
+"prefix":"!",
+"owner":["ايديك"],
+"token":"توكن بوتك",
+"mainguild":"ايدي سيرفرك",
+"database":"mongodb تبعك"
+}
